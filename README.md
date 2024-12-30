@@ -1,0 +1,6 @@
+# 【太阳线】双规、多级别、商城奖金系统 直销系统/软件/源码
+
+【太阳线】双规、多级别、商城奖金系统直销系统/软件/源码<br>一：级别：Vip会员、经销商、代理商<br>1、会员级别由管理员审核开通<br>2、前台注册的普通会员，可购物不享受提成<br>二:销售提成<br>1、Vip会员，享受3代会员购物提成<br>2、提成比例：一代12%、二代8%、三代5%<br>三：管理奖<br>1、代理商：享受下面所有会员购物的12%提成<br>2、经销商：享受下面所有会员购物的10%提成<br>四：补充说明<br>1、代理经销商，仅享受管理奖，不享受vip会员的3代提成<br>2、产品提成不是按商品的价格百分比，而是发布每款商品时，设置这款产品产品分红金额（业绩额），是以分红金额百分比为准，方便推广商品成本高低不一的产品，更具有操作灵活性。<br>3、积分：每款商品可设置积分，购买商品多积分也多，积分可设置比例兑换购物币，用来购物。<br>五：基本功能：在线支付接口、转帐功能、提现功能等等。<br>奖金不结算注意几个问题：<br>1、产品全部填“否”<br>2、会员下单购物后，后台确认发货，会员在前台确认收货后，交易才算完成。<br>3、参数不要设置为整数或为0，均为小数（example.com，就是10%）<br>基本帐户<br>1、积分：购买产品，自动赠送积分。积分可兑换购物币。<br>2、购物币：购买产品专用，商城后台增减，自助奖金转为购物币，自助积分转为购物币。<br>3、奖金：后台可增减，系统提成。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/TTR7G" style="color: red;">https://mega-file.org/TTR7G</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
